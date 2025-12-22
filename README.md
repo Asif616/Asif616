@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software engineering Student with hands on experience in full stack development<br>🌱 Currently Learning AI/ML
+🔭Full Stack developer<br>🌱 Currently Learning AI/ML
 
 
 ## 🌐 Socials:
