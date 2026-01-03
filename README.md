@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Full Stack developer<br>🌱 Currently Learning AI/ML
+🌱 Aspiring Software Engineer 
 
 
 ## 🌐 Socials:
