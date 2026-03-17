@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 Aspiring Software Engineer 
 
-🔭 Currently learning Gen AI
+🔭 Currently learning Agentic AI
 
 
 ## 🌐 Socials:
